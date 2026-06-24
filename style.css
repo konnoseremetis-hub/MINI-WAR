@@ -1,0 +1,9 @@
+body {
+    font-family: sans-serif;
+}
+header h1{text-align: center ; color: rgb(0, 4, 255);}
+header h2{ text-align: center;color: blueviolet;}
+main {font-weight:1000 ;color: crimson;}
+footer {text-align:center ; border: 11px groove rgb(25, 95, 255)  ;}
+nav {text-align: left bottom;}
+footer a {margin:0px 10px 0px 0px;}
